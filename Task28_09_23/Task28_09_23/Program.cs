@@ -8,12 +8,12 @@
 //     sum += number;
 // }
 
-// Console.WriteLine($"The sum of the elements in the array is: {sum}");
+// Console.WriteLine($"Massivdəki elementlərin cəmi: {sum}");
 
 // Task 2
 // string[] words = { "cat", "dog", "fish", "bird", "lion", "wolf", "frog" };
 
-// Console.WriteLine("4-Letter Words:");
+// Console.WriteLine("4-Hərfli Sözlər:");
 
 // foreach (string word in words)
 // {
@@ -27,22 +27,22 @@
 //Task 3 
 
 //int[] arr = new int[] {1, 3, 6, 7, 5, 9};
- 
+
 //int temp;
- 
+
 //for (int i = 0; i < arr.Length - 1; i++)
- 
+
 //    for (int j = i + 1; j < arr.Length; j++)
- 
+
 //        if (arr[i] < arr[j]) 
 //        {
- 
+
 //            temp = arr[i];
 //            arr[i] = arr[j];
 //            arr[j] = temp;
 //        }
- 
-        
+
+
 //foreach(int value in arr)
 //{
 //    Console.Write(value + " ");
